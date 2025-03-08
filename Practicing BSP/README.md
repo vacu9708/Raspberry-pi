@@ -49,6 +49,8 @@ MACHINE ??= "raspberrypi5"
 **6.1 Trouble shooting before build**
 >ERROR: Nothing RPROVIDES 'linux-firmware-rpidistro-bcm43455'
 
+https://meta-raspberrypi.readthedocs.io/en/latest/ipcompliance.html#linux-firmware-rpidistro
+
 **6.2 Build**
 ```sh
 pushd build
